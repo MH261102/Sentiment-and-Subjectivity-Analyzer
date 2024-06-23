@@ -53,7 +53,7 @@ Do you want to enter a URL or paste your own text? (Enter 'URL' or 'Text'): URL
 Paste the URL you want to know the sentimentality and subjectivity of: https://example.com/article
 
 Text for Analysis:
-<First 500 characters of the article>
+<Text>
 
 Sentiment Analysis:
 Polarity: 0.1 (Positive)
